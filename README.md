@@ -1,2 +1,1 @@
-# TinDog-Page
-Udemy Web Development Course Exercise
+TinDog Starting Files
